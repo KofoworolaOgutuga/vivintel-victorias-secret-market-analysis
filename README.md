@@ -166,26 +166,3 @@ Several limitations should be considered when interpreting the analysis:
 * Results depend on the variables and consumer segments selected for analysis.
 * Some comparison groups may have different sample sizes.
 * Findings should be interpreted within the context of the available survey data and research period.
-
-## Academic Context
-
-This project was completed as an academic market research and business analytics assignment.
-
-The original assignment required students to use Vividata to identify insights about people who shop at Victoria's Secret compared with consumers who purchase from other lingerie retailers, with particular attention to demographics, usage, attitudes, and #MeToo-related issues.
-
-## Portfolio Skills Demonstrated
-
-This project demonstrates experience with:
-
-**Market Research | Consumer Analytics | Cross-Tabulation | Segmentation | Excel | Vividata | Data Interpretation | Business Insights | Marketing Analytics | Data Presentation**
-
-## Author
-
-**Kofoworola Ogutuga**
-
-Business Analytics Student
-George Brown Polytechnic
-
-## Disclaimer
-
-This repository contains academic work created for educational and portfolio purposes. Vividata data and other third-party materials remain subject to their respective terms of use and copyright restrictions. Raw proprietary or restricted datasets should not be redistributed without permission.
