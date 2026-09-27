@@ -135,11 +135,9 @@ The repository contains materials associated with the project, including:
 
 | File / Folder    | Purpose                                       |
 | ---------------- | --------------------------------------------- |
-| `data/`          | Project data and data documentation           |
-| `analysis/`      | Analysis workbooks and analytical outputs     |
+| `analysis/`      | Analysis workbook and analytical output       |
 | `presentation/`  | Presentation materials                        |
 | `documentation/` | Written assignment and research documentation |
-| `visuals/`       | Charts, figures, and selected visuals         |
 
 ## Business Value
 
