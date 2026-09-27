@@ -33,9 +33,3 @@ The presentation follows a general structure of:
 8. #MeToo-related findings
 9. Key insights
 10. Business implications
-
-## Portfolio Use
-
-The presentation may be included in a professional portfolio to demonstrate the ability to communicate analytical findings to a non-technical audience.
-
-When publishing the presentation publicly, proprietary Vividata data or restricted charts should be removed or replaced with permitted visuals.
