@@ -50,9 +50,3 @@ The original assignment was submitted as a written Word document containing:
 2. Analysis
 3. Vividata chart/cross-tabulation appendix
 4. APA citations
-
-## Portfolio Adaptation
-
-This GitHub repository adapts the academic project into a professional portfolio format.
-
-The purpose is to highlight the analytical process, tools, research methodology, and business insights rather than reproduce the original assignment submission exactly.
